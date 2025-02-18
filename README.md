@@ -28,3 +28,5 @@ The Task Management App is designed to streamline the scheduling and tracking of
 5. **Start the Applicationr**  
    Start the application: npm run dev
 
+## Contributing
+Feel free to fork this repository and submit pull requests. Please ensure that your code adheres to the existing code style and includes appropriate tests.
